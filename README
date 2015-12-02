@@ -1,1 +1,4 @@
 This project is a demonstration of how to go about possibly securing a Spring REST application by authenticating every request.
+
+https://kevinpotgieter.wordpress.com/2012/05/14/spring-3-1-restful-authentication/
+https://kevinpotgieter.wordpress.com/2012/05/09/hash-based-message-authentication-code-hashing-in-spring-mvc/
